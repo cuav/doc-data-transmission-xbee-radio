@@ -1,3 +1,34 @@
-# My Awesome Book
+## CUAV  XBEE  RADIO超视距数据传输模块
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+## 概述 {#概述}
+
+---
+
+CUAV XBEE  Radio是一款高功率、高速率、高接收灵敏度数传模块
+
+它内置了美国DIGI公司的S3B射频模块，发射功率达250mw，ISM 900MHZ合法频率，支持多种高级的网络选件和拓扑模式
+
+CUAV  XBEE  Radio模块为低成本无线数据解决方案提供了空前的作用范围。这款模块简单易用，特别适合无人机组网以及点对点超视距传输，可以在无人机与设备之间提供稳定的关键数据传输。 它们的外形尺寸较小，节省了宝贵的机上空间。
+
+## 特性
+
+---
+
+#### 超高接收灵敏度
+
+在低速率模式时，最高拥有-110dBm接收灵敏度
+
+### 超远距离
+
+低速率模式最远支持 14km \*\*\*\*\*
+
+### 超高速率
+
+高达200k的空中速率
+
+### CNC一体成型外壳
+
+采用航空铝合金一体CNC成型的外壳，轻量、坚固、美观而且抗干扰
+
+
+
