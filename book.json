@@ -1,6 +1,6 @@
 {
-  "title": "修改成书名",
-  "description": "修改成书的描述",
+  "title": "XBEE Radio",
+  "description": "Xbee超视距数传模块",
   "language": "zh-hans",
   "plugins": [
     "-sharing",
