@@ -4,7 +4,7 @@
 
 ### FTDI驱动 {#ftdi驱动}
 
-CUAV SX Radio内置的USB转TTL芯片为FT232FQ
+CUAV xbee  Radio内置的USB转TTL芯片为FT232FQ
 
 驱动下载
 
@@ -26,5 +26,5 @@ CUAV SX Radio内置的USB转TTL芯片为FT232FQ
 
 调参说明：
 
-http://doc.cuav.net/tutorial/copter/optional-hardware/radio/usb%20xbee.html
+[http://doc.cuav.net/tutorial/copter/optional-hardware/radio/usb xbee.html](http://doc.cuav.net/tutorial/copter/optional-hardware/radio/usb xbee.html)
 
