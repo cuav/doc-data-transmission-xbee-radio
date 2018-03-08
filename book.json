@@ -3,6 +3,7 @@
   "description": "Xbee超视距数传模块",
   "language": "zh-hans",
   "plugins": [
+    "language-picker",
     "-sharing",
     "-highlight",
     "-livereload",
