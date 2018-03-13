@@ -1,30 +1,30 @@
-# Software configuration and driver download
+# 软件配置和驱动下载
 
 ---
 
-### FTDI drive {#ftdi驱动}
+### FTDI驱动 {#ftdi驱动}
 
-CUAV xbee Radio's built-in USB to TTL chip is FT232FQ
+CUAV xbee  Radio内置的USB转TTL芯片为FT232FQ
 
-Driver Download
+驱动下载
 
-http://www.ftdichip.com/FTDrivers.htm
+[http://www.ftdichip.com/FTDrivers.htm](http://www.ftdichip.com/FTDrivers.htm)
 
-### X-CTU Software Configuration Guide {#x-ctu软件配置指南书}
+### X-CTU软件配置指南书 {#x-ctu软件配置指南书}
 
 [http://pub.ucpros.com/download/90001003\_A.pdf](http://pub.ucpros.com/download/90001003_A.pdf)
 
-Do not choose the wrong model to configure, please read the configuration first, then modify the configuration
+注意不要**选错型号**进行配置，请**先读取**配置，再进行**修改配置**
 
-Picking the wrong model and writing the wrong configuration will result in a brick break!
+选错型号写错配置会导致变砖！
 
-### software download {#软件下载}
+### 软件下载 {#软件下载}
 
-New X-CTU
+新版X-CTU
 
-Https://www.digi.com/products/xbee-rf-solutions/xctu-software/xctu
+[https://www.digi.com/products/xbee-rf-solutions/xctu-software/xctu](https://www.digi.com/products/xbee-rf-solutions/xctu-software/xctu)
 
-Adjustment instructions:
+调参说明：
 
-Http://doc.cuav.net/tutorial/copter/optional-hardware/radio/usb xbee.html
+[http://doc.cuav.net/tutorial/copter/optional-hardware/radio/usb xbee.html](http://doc.cuav.net/tutorial/copter/optional-hardware/radio/usb xbee.html)
 
