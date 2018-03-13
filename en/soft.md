@@ -2,23 +2,23 @@
 
 ---
 
-### FTDI drive {#ftdi驱动}
+### FTDI drive  {#ftdi drive}
 
-### CUAV xbee Radio's built-in USB to TTL chip is FT232FQ {#ftdi驱动}
+CUAV xbee Radio's built-in USB to TTL chip is FT232FQ
 
-### Driver Download {#ftdi驱动}
+Driver Download
 
 [http://www.ftdichip.com/FTDrivers.htm](http://www.ftdichip.com/FTDrivers.htm)
 
-### X-CTU Software Configuration Guide {#x-ctu软件配置指南书}
+### X-CTU Software Configuration Guide {#x-ctu oftware Configuration Guide}
 
 [http://pub.ucpros.com/download/90001003\_A.pdf](http://pub.ucpros.com/download/90001003_A.pdf)
 
-Do not choose the wrong model to configure, please read the configuration first, then modify the configuration
+Do not **choose wrong model** to configure，please **read the configuration first** then modify the configuration，rerunning **Modify configuration**
 
 Picking the wrong model and writing the wrong configuration will result in a brick break!
 
-### software download {#软件下载}
+### software download{#software download}
 
 New X-CTU
 
@@ -27,4 +27,6 @@ New X-CTU
 Adjustment instructions:
 
 [http://doc.cuav.net/tutorial/copter/optional-hardware/radio/usb xbee.html](http://doc.cuav.net/tutorial/copter/optional-hardware/radio/usb xbee.html)
+
+
 
