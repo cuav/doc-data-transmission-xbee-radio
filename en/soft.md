@@ -20,13 +20,9 @@ Picking the wrong model and writing the wrong configuration will result in a bri
 
 ### software download{#software download}
 
-New X-CTU
-
-[https://www.digi.com/products/xbee-rf-solutions/xctu-software/xctu](https://www.digi.com/products/xbee-rf-solutions/xctu-software/xctu)
-
-Adjustment instructions:
-
-[http://doc.cuav.net/tutorial/copter/optional-hardware/radio/usb xbee.html](http://doc.cuav.net/tutorial/copter/optional-hardware/radio/usb xbee.html)
+[XCTU ver. 5.2.8.6 installer](http://ftp1.digi.com/support/utilities/40003002_C.exe)
+[XCTU v. 6.3.13 Windows x86/x64](http://ftp1.digi.com/support/utilities/40003026_redirect.htm)
+[Adjustment instructions](http://doc.cuav.net/tutorial/copter/optional-hardware/radio/usb-xbee.html)
 
 
 
