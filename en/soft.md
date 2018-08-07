@@ -22,7 +22,7 @@ Picking the wrong model and writing the wrong configuration will result in a bri
 
 [XCTU ver. 5.2.8.6 installer](http://ftp1.digi.com/support/utilities/40003002_C.exe)
 [XCTU v. 6.3.13 Windows x86/x64](http://ftp1.digi.com/support/utilities/40003026_redirect.htm)
-[Adjustment instructions](http://doc.cuav.net/tutorial/copter/optional-hardware/radio/usb-xbee.html)
+[Modify parameter tutorial](http://doc.cuav.net/tutorial/copter/optional-hardware/radio/usb-xbee.html)
 
 
 
