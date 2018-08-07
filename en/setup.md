@@ -1,4 +1,4 @@
-# Hardware connection use
+# setup
 
 ---
 
@@ -12,11 +12,11 @@ If you need to modify the configuration, please refer to the software configurat
 
 PixHack: Radio Interface Plugged into Flight Control
 
-Pixhawk: plug into the flight controller's telem1 or telem2 interface
+Pixhawk: plug into the flight controller's telem1 or telem2 interface
 
 #### Ground station use: {#地面站使用：}
 
-In theory, the ground stations of the PIX are compatible. Please select 57600 baud rate when connecting. 
+In theory, the ground stations of the PIX are compatible. Please select 57600 baud rate when connecting.
 
 Note whether the driver is installed correctly and whether the port number is selected.
 
@@ -34,5 +34,5 @@ The default standard interface rate is 57600. The required interface baud rate c
 
 ### Use the tutorial:
 
-[http://doc.cuav.net/tutorial/copter/optional-hardware/radio/xbee Radio/xbeextend debug.html](http://doc.cuav.net/tutorial/copter/optional-hardware/radio/xbee Radio/xbeextend debug.html)
+http://doc.cuav.net/tutorial/copter/optional-hardware/radio/usb-xbee.html
 

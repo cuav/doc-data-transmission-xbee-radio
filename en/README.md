@@ -1,8 +1,6 @@
-## **CUAV XBEE RADIO over sight data transmission module**
+## CUAV XBEE  Over the horizon data transmission module
 
-
-
-##  Summarize {#概述}
+## Summarize {#概述}
 
 ---
 
@@ -41,11 +39,11 @@ Aerospace aluminum alloy one-piece CNC housing, lightweight, strong, beautiful a
 |  | CUAV®  xbee |
 | :--- | :--- |
 | hardware |  |
-|  frequency range  | 902 ~ 928 MHz |
+| frequency range | 902 ~ 928 MHz |
 | processor | ADF7023 transceiver，Cortex-X3 EFM32G230@28Mhz |
 |  | Programmers include：Freescale MC9s08QE32 |
 | Antenna selection | wire.U.FlL and RPSMSA |
-| function  |  |
+| function |  |
 | data rate | 10kbps/200Kbps（De acuerdo con diferentes tasas de firmware,，tacitly approve 200k\) |
 | Urban / indoor distance | 10kbps: Up to 2000 feet \(610 meters\); 200kbps: Up to 1000 feet |
 | Outdoor/Suburban Distance | 10kbps: up to 15.5km 200kps: up to 6.5k meters |
@@ -60,7 +58,7 @@ Aerospace aluminum alloy one-piece CNC housing, lightweight, strong, beautiful a
 | internal storage | 32kb FLASH/2kb RAM |
 |  | CPU clockUp to 50MHZ |
 | power |  |
-|  service voltage | 4-7v |
+| service voltage | 4-7v |
 | Emission current | 229mA |
 | Receive current | 44ma |
 | Sleep current | 3uA |
