@@ -5,7 +5,7 @@
   "plugins": [
     "youtube",
     "language-picker",
-    "richquotes"，
+    "richquotes"
     "-sharing",
     "-highlight",
     "-livereload",
