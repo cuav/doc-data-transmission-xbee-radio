@@ -5,6 +5,7 @@
 ### FTDI驱动 {#ftdi驱动}
 
 CUAV xbee  Radio内置的USB转TTL芯片为FT232FQ
+
 [驱动下载](http://www.ftdichip.com/FTDrivers.htm)
 
 ### X-CTU软件配置指南书 {#x-ctu软件配置指南书}
@@ -16,6 +17,7 @@ CUAV xbee  Radio内置的USB转TTL芯片为FT232FQ
 选错型号写错配置会导致变砖！
 
 ### 软件下载 {#软件下载}
+
 [XCTU ver. 5.2.8.6 installer](http://ftp1.digi.com/support/utilities/40003002_C.exe)
 
 [XCTU v. 6.3.13 Windows x86/x64](http://ftp1.digi.com/support/utilities/40003026_redirect.htm)
