@@ -5,14 +5,11 @@
 ### FTDI drive  {#ftdi drive}
 
 CUAV xbee Radio's built-in USB to TTL chip is FT232FQ
-
-Driver Download
-
-[http://www.ftdichip.com/FTDrivers.htm](http://www.ftdichip.com/FTDrivers.htm)
+[Driver Download](http://www.ftdichip.com/FTDrivers.htm)
 
 ### X-CTU Software Configuration Guide {#x-ctu oftware Configuration Guide}
 
-[http://pub.ucpros.com/download/90001003\_A.pdf](http://pub.ucpros.com/download/90001003_A.pdf)
+[Configuration Guide](http://pub.ucpros.com/download/90001003_A.pdf)
 
 Do not **choose wrong model** to configure，please **read the configuration first** then modify the configuration，rerunning **Modify configuration**
 
