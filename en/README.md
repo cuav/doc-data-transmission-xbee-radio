@@ -10,7 +10,7 @@ It has a built-in S3B RF module from the United States DIGI company, transmittin
 
 The CUAV XBEE Radio module offers an unprecedented range of low-cost wireless data solutions. This module is easy to use and is especially suitable for unmanned unit networks and point-to-point over-the-horizon transmission, providing stable, critical data transmission between drones and equipment. Their small size saves valuable on-board space.
 
-![](/assets/XB RADIO.png)
+![xbee radio](../assets/xbee_radio.png)
 
 ## Characteristic
 
